@@ -12,11 +12,13 @@ Clean and user-friendly interface
 🛠️ Technologies Used
 HTML5
 CSS3
+
 📂 Project Structure
 Amazon-Clone/
 ├── index.html
 ├── style.css
 └── images/
+
 🎯 Purpose
 
 This project was created to practice and demonstrate HTML and CSS skills, including webpage structure, styling, layouts, and responsive design.
