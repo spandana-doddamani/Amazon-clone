@@ -3,13 +3,16 @@ Amazon Clone
 A responsive Amazon-inspired e-commerce website developed using HTML and CSS. This project focuses on recreating the layout and user interface of an online shopping platform.
 
 🚀 Features
+
 Amazon-inspired homepage
 Navigation bar and search section
 Product categories and product cards
 Product images and pricing sections
 Responsive layout
 Clean and user-friendly interface
+
 🛠️ Technologies Used
+
 HTML5
 CSS3
 
